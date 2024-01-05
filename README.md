@@ -1,15 +1,14 @@
 <h1 align="center">Hello and Welcome 👋, I'm Artem</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 - 💻 Backend and AI Developer
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
 - 🎓 Student at [Financial University under the Government of the Russian Federation](https://en.fa.ru/)
 - 📱 artemkuzmi@gmail.com
-  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"></p>
+
 <h2 align="center"> Recent Projects ⚡</h2>
 
 ### A | B
@@ -18,11 +17,11 @@
 >
 
 <br>
-<h3 align="left">Tools & Technologys 🛠:</h3>
+<h3 align="left">Tools & Technologies 🛠:</h3>
 <ul>
   <li>
     <details close>
-      <summary>Languages:</summary>
+      <summary>Programming Languages:</summary>
       <p align="left">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
