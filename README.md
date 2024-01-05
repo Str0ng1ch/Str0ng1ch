@@ -1,13 +1,18 @@
 <h1 align="center">Hello and Welcome 👋, I'm Artem</h1>
 
+<h2 align="center"> Personal Information ⚡</h2>
+
 - 💻 Backend and AI Developer
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
 - 🎓 Student at [Financial University under the Government of the Russian Federation](https://en.fa.ru/)
 - 📱 artemkuzmi@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<br>
+
+<h2 align="center"> Let's stay in touch ⚡</h2>
+
+<br>
 
 <h2 align="center"> Recent Projects ⚡</h2>
 
@@ -17,6 +22,9 @@
 >
 
 <br>
+
+<h2 align="center"> Statistics </h2>
+
 <h3 align="left">Tools & Technologies 🛠:</h3>
 <ul>
   <li>
