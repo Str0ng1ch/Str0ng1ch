@@ -1,6 +1,6 @@
 <h1 align="center">Hello and Welcome 👋, I'm Artem</h1>
 
-<h2 align="center"> Personal Information ⚡</h2>
+<h3 align="left"> Personal Information ⚡</h3>
 
 - 💻 Backend and AI Developer
 - 🌱 Learning **Data Science**
@@ -10,11 +10,11 @@
 
 <br>
 
-<h2 align="center"> Let's stay in touch ⚡</h2>
+<h3 align="left"> Let's stay in touch ⚡</h3>
 
 <br>
 
-<h2 align="center"> Recent Projects ⚡</h2>
+<h3 align="left"> Recent Projects ⚡</h3>
 
 ### A | B
 > <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
@@ -22,8 +22,6 @@
 >
 
 <br>
-
-<h2 align="center"> Statistics </h2>
 
 <h3 align="left">Tools & Technologies 🛠:</h3>
 <ul>
