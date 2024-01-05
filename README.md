@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">A passionate backend and AI developer</h3>
+<h1 align="center">Hello and Welcome 👋, I'm Artem</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<br><h2 align="center"> Community Projects 🚀</h2>
+- 💻 Backend and AI Developer
+- 🌱 Learning **Data Science**
+- 🔭 Exploring `ML` in `AI`
+- 🎓 Student at [Financial University under the Government of the Russian Federation](https://en.fa.ru/)
+- 📱 artemkuzmi@gmail.com
+  
+<h2 align="center"> Recent Projects ⚡</h2>
 
 ### A | B
 > <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
 > Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. 
 >
 
-
-<h3 align="left">Languages, Dev Tools & More:</h3>
+<br>
+<h3 align="left">Tools & Technologys 🛠:</h3>
 <ul>
   <li>
     <details close>
@@ -89,7 +94,8 @@
     </details>
   </li>
 </ul>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=str0ng1ch&show_icons=true&locale=en&layout=compact" alt="str0ng1ch"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=str0ng1ch&show_icons=true&locale=en&layout=compact" alt="str0ng1ch" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=str0ng1ch&" alt="str0ng1ch" /></p>
+<br>
+<h3 align="left">GitHub Statistics 📈:</h3>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=str0ng1ch&" alt="str0ng1ch"/>
