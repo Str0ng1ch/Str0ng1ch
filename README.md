@@ -24,7 +24,28 @@
 
 ### A | B
 > <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
-> Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. 
+> Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
+> <br>
+> <br>
+> <details close>
+>  <summary>Technical details</summary>
+>    <p align="left">
+>      hi
+>    </p>
+>  </details>
+>
+
+### A | B
+> <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
+> Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
+> <br>
+> <br>
+> <details close>
+>  <summary>Technical details</summary>
+>    <p align="left">
+>      hi
+>    </p>
+>  </details>
 >
 
 <br>
