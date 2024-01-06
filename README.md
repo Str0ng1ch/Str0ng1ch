@@ -22,35 +22,71 @@
 
 <h3 align="left"> Recent Projects 🚀</h3>
 
-### A | B
-> <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
+### MathEGE | Web Application 
 > Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
 > <br>
+> <a href="https://github.com/Str0ng1ch/MathEGE"><img src="https://img.shields.io/badge/MathEGE-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 > <br>
 > <details close>
 >  <summary>Technical details</summary>
 >    <p align="left">
 >      hi
 >    </p>
->  </details>
+> </details>
 >
 
-### A | B
-> <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
+### LureCoursing | Web Application
 > Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
 > <br>
+> <a href="https://github.com/Str0ng1ch/Coursing"><img src="https://img.shields.io/badge/LureCoursing-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 > <br>
 > <details close>
 >  <summary>Technical details</summary>
 >    <p align="left">
 >      hi
 >    </p>
->  </details>
+> </details>
 >
 
 <br>
 
-<h3 align="left">Tools & Technologies 🛠:</h3>
+<h3 align="left"> Other Projects 🌐</h3>
+
+- <details close>
+    <summary> Elforecasting | Web Application </summary>
+    
+    > Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
+    > <br>
+    > <a href="https://github.com/Str0ng1ch/Phasmophobia"><img src="https://img.shields.io/badge/Phasmophobia-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
+    > <br>
+    > <details close>
+    >  <summary>Technical details</summary>
+    >    <p align="left">
+    >      hi
+    >    </p>
+    > </details>
+    
+  </details>
+
+- <details close>
+    <summary> Phasmophobia | Bot </summary>
+    
+    > Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
+    > <br>
+    > <a href="https://github.com/Str0ng1ch/Phasmophobia"><img src="https://img.shields.io/badge/Phasmophobia-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
+    > <br>
+    > <details close>
+    >  <summary>Technical details</summary>
+    >    <p align="left">
+    >      hi
+    >    </p>
+    > </details>
+    
+  </details>
+
+<br>
+
+<h3 align="left">Tools & Technologies 🛠</h3>
 <ul>
   <li>
     <details close>
