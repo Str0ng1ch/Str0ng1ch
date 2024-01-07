@@ -29,9 +29,23 @@
 > <br>
 > <details close>
 >  <summary>Technical details</summary>
->    <p align="left">
->      hi
->    </p>
+>    <ul align="left" type="circle">
+>      <li>
+>        Programming language: <br> &emsp; <b> Python </b> <br>
+>      </li>
+>      <li>
+>        Backend: <br> &emsp; <b> Django (with ORM) </b><br>
+>      </li>
+>      <li>
+>        Frontend: <br> &emsp; <b> HTML5, CSS3, JS, Bootstrap </b><br>
+>      </li>
+>      <li>
+>        Database: <br> &emsp; <b> MySQL </b><br>
+>      </li>
+>      <li>
+>        Other: <br> &emsp; <b> Git (on Github) </b><br>
+>      </li>
+>    </ul>
 > </details>
 >
 
@@ -42,9 +56,23 @@
 > <br>
 > <details close>
 >  <summary>Technical details</summary>
->    <p align="left">
->      hi
->    </p>
+>    <ul align="left" type="circle">
+>      <li>
+>        Programming language: <br> &emsp; <b> Python </b> <br>
+>      </li>
+>      <li>
+>        Backend: <br> &emsp; <b> Flask (with RestAPI) </b><br>
+>      </li>
+>      <li>
+>        Frontend: <br> &emsp; <b> HTML5, CSS3, JS, Bootstrap </b><br>
+>      </li>
+>      <li>
+>        Database: <br> &emsp; <b> MySQL </b><br>
+>      </li>
+>      <li>
+>        Other: <br> &emsp; <b> Git (on Github) </b><br>
+>      </li>
+>    </ul>
 > </details>
 >
 
@@ -57,13 +85,28 @@
     
     > Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
     > <br>
-    > <a href="https://github.com/Str0ng1ch/Phasmophobia"><img src="https://img.shields.io/badge/Phasmophobia-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
-    > <br>
     > <details close>
     >  <summary>Technical details</summary>
-    >    <p align="left">
-    >      hi
-    >    </p>
+    >    <ul align="left" type="circle">
+    >      <li>
+    >        Programming language: <br> &emsp; <b> Java </b> <br>
+    >      </li>
+    >      <li>
+    >        Backend: <br> &emsp; <b> Spring (with ORM) </b><br>
+    >      </li>
+    >      <li>
+    >        ML/AI: <br> &emsp; <b> Own Neural Network (written in Java), PyTorch (LSTM), Scikit-learn (LinearRegression) </b><br>
+    >      </li>
+    >      <li>
+    >        Frontend: <br> &emsp; <b> HTML5, CSS3, JS, Bootstrap </b><br>
+    >      </li>
+    >      <li>
+    >        Database: <br> &emsp; <b> MySQL </b><br>
+    >      </li>
+    >      <li>
+    >        Other: <br> &emsp; <b> Git (on Github), Figma </b><br>
+    >      </li>
+    >    </ul>
     > </details>
     
   </details>
@@ -77,9 +120,14 @@
     > <br>
     > <details close>
     >  <summary>Technical details</summary>
-    >    <p align="left">
-    >      hi
-    >    </p>
+    >    <ul align="left" type="circle">
+    >      <li>
+    >        Programming language: <br> &emsp; <b> Python </b> <br>
+    >      </li>
+    >      <li>
+    >        Other: <br> &emsp; <b> Git (on Github), AutoHotKey (for mouse movement) </b><br>
+    >      </li>
+    >    </ul>
     > </details>
     
   </details>
