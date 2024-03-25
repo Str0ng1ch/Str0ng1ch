@@ -2,7 +2,7 @@
 
 <h3 align="left"> Personal Information 📋</h3>
 
-- 💻 Backend and AI Developer
+- 💻 **Backend** and **ML/DL** Developer
 - 📚 Learning **Data Science**
 - 🔍 Exploring `ML` in `AI`
 - 🎓 Student at [Financial University under the Government of the Russian Federation](https://en.fa.ru/)
@@ -22,19 +22,21 @@
 
 <h3 align="left"> Recent Projects 🚀</h3>
 
-### MathEGE | Web Application 
-> Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
-> <br>
-> <a href="https://github.com/Str0ng1ch/MathEGE"><img src="https://img.shields.io/badge/MathEGE-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
+### Elforecasting | Web Application
+> Main goal of the project - development of an intelligent system for early forecasting and modelling of flood situation on the example of the Republic of Bashkortostan using a proprietary machine and deep learning library. The following machine and deep learning methods were used in this project: <b> linear regression</b>, <b> fully connected self-written neural network</b>, as well as recurrent neural networks - <b>LSTM</b>. Due to these technologies, it was possible to achieve up to 95% accuracy in predicting water levels. This project was made in a team, the following version control system was used to share the file - git. <br>
+> You can learn more about the project from <a href="https://www.sciencedirect.com/science/article/abs/pii/S002216942400372X">scientific article</a>, as well as on the <a href="https://elforecasting.com/">website</a>.
 > <br>
 > <details close>
 >  <summary>Technical details</summary>
 >    <ul align="left" type="circle">
 >      <li>
->        Programming language: <br> &emsp; <b> Python </b> <br>
+>        Programming language: <br> &emsp; <b> Java </b> <br>
 >      </li>
 >      <li>
->        Backend: <br> &emsp; <b> Django (with ORM) </b><br>
+>        Backend: <br> &emsp; <b> Spring (with ORM) </b><br>
+>      </li>
+>      <li>
+>        ML/AI: <br> &emsp; <b> Own Neural Network (written in Java), PyTorch (LSTM), Scikit-learn (LinearRegression) </b><br>
 >      </li>
 >      <li>
 >        Frontend: <br> &emsp; <b> HTML5, CSS3, JS, Bootstrap </b><br>
@@ -43,7 +45,7 @@
 >        Database: <br> &emsp; <b> MySQL </b><br>
 >      </li>
 >      <li>
->        Other: <br> &emsp; <b> Git (on Github) </b><br>
+>        Other: <br> &emsp; <b> Git (on Github), Figma </b><br>
 >      </li>
 >    </ul>
 > </details>
@@ -81,21 +83,20 @@
 <h3 align="left"> Other Projects 🌐</h3>
 
 - <details close>
-    <summary> Elforecasting | Web Application </summary>
+    <summary> MathEGE | Web Application </summary>
     
-    > Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
+    > A university project in Django, aimed at studying the technology of this framework, as well as studying backend solutions, including registration and authorization, the process of testing backend code and also the frontend of frameworks (bootstrap). Work with databases for storing user data was implemented.
+    > <br>
+    > <a href="https://github.com/Str0ng1ch/MathEGE"><img src="https://img.shields.io/badge/MathEGE-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
     > <br>
     > <details close>
     >  <summary>Technical details</summary>
     >    <ul align="left" type="circle">
     >      <li>
-    >        Programming language: <br> &emsp; <b> Java </b> <br>
+    >        Programming language: <br> &emsp; <b> Python </b> <br>
     >      </li>
     >      <li>
-    >        Backend: <br> &emsp; <b> Spring (with ORM) </b><br>
-    >      </li>
-    >      <li>
-    >        ML/AI: <br> &emsp; <b> Own Neural Network (written in Java), PyTorch (LSTM), Scikit-learn (LinearRegression) </b><br>
+    >        Backend: <br> &emsp; <b> Django (with ORM) </b><br>
     >      </li>
     >      <li>
     >        Frontend: <br> &emsp; <b> HTML5, CSS3, JS, Bootstrap </b><br>
@@ -104,7 +105,7 @@
     >        Database: <br> &emsp; <b> MySQL </b><br>
     >      </li>
     >      <li>
-    >        Other: <br> &emsp; <b> Git (on Github), Figma </b><br>
+    >        Other: <br> &emsp; <b> Git (on Github) </b><br>
     >      </li>
     >    </ul>
     > </details>
@@ -114,7 +115,7 @@
 - <details close>
     <summary> Phasmophobia | Bot </summary>
     
-    > Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
+    > A small project to explore Python's capabilities in writing a bot for the computer game Phasmaphobia. The goal of this project was to create an automated program that would farm experience by entering the game, choosing a random ghost type, and finishing the game. Libraries for keyboard control, for image recognition and AHK script for rotating the camera inside the game were used. Added a function to keep statistics on the number of repetitions of the ghost type for better guessing.
     > <br>
     > <a href="https://github.com/Str0ng1ch/Phasmophobia"><img src="https://img.shields.io/badge/Phasmophobia-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
     > <br>
