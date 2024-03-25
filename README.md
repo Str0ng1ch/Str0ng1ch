@@ -52,7 +52,8 @@
 >
 
 ### LureCoursing | Web Application
-> Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here. Text here.
+> This <a href="http://lurecoursing.ru/">website</a> was custom-made for a person interested in dogs, racing and coursing. The site provides the opportunity to track a dog’s results in a competition, as well as conduct analytics and comparisons with other dogs. The site uses databases to store information about competitions. It is possible to manually correct and add data through the admin panel. <br>
+<i>This project is currently under development</i>
 > <br>
 > <a href="https://github.com/Str0ng1ch/Coursing"><img src="https://img.shields.io/badge/LureCoursing-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
 > <br>
