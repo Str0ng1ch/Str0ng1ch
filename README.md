@@ -12,9 +12,9 @@
 
 <h3 align="left"> Let's stay in touch 📞</h3>
 <div align="left">
-  <a href="https://github.com/Str0ng1ch"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=opsgenie&logoColor=ffffff"></a> 
+  <a href="http://kuzmichev.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=opsgenie&logoColor=ffffff"></a> 
   <a href="https://github.com/Str0ng1ch"><img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
-  <a href="https://github.com/Str0ng1ch"><img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&logoColor=ffffff"></a> 
+  <a href="@artemkuzmi"><img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&logoColor=ffffff"></a> 
   <a href="mailto:artemkuzmi@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=Gmail&logoColor=ffffff"></a> 
 </div>
 
