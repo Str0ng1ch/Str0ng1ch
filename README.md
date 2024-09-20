@@ -86,7 +86,7 @@
 - <details close>
     <summary> MathEGE | Web Application </summary>
     
-    > A university project in Django, aimed at studying the technology of this framework, as well as studying backend solutions, including registration and authorization, the process of testing backend code and also the frontend of frameworks (bootstrap). Work with databases for storing user data was implemented.
+    > A university project in Django, aimed at studying the technology of this framework, as well as studying backend solutions, including registration and authorization, the process of testing backend code. MySQL database was used to store user data, results and scores.
     > <br>
     > <a href="https://github.com/Str0ng1ch/MathEGE"><img src="https://img.shields.io/badge/MathEGE-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
     > <br>
